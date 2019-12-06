@@ -1,6 +1,9 @@
 Financial Services Use in Tanzania
 
+
 To successfully run the map you should install the following:
+
+
 
 gmplot by using pip install gmplot on your linux  terminal.
 
